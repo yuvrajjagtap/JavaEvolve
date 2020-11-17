@@ -1,4 +1,4 @@
-# JavaEvolve
+# Features from Java7 to Java11
 This project covers some of the changes (not all) from Java 7 to Java 11
 
 # Java 7
